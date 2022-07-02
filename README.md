@@ -7,8 +7,8 @@
 1 - Referenciar o componente no pubspec.yaml
 
 
-  geradorblablabla:
-    git: https://github.com/rguimaraes20006/geradorblablabla.git
+  descricaoaleatoria:
+    git: https://github.com/rguimaraes20006/geradorblablabla2.git
     
 
 2 - Exemplo de chamada
