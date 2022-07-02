@@ -1,8 +1,8 @@
-#Gerador de Blábláblá 
+# Gerador de Blábláblá 
 
-##Package que gera um texto  de uma dica aleatória a ser utilizado na aplicação através da API pública https://api.adviceslip.com/advice
+## Package que gera um texto  de uma dica aleatória a ser utilizado na aplicação através da API pública https://api.adviceslip.com/advice
 
-##Modo de uso:
+## Modo de uso:
 
 1 - Referenciar o componente no pubspec.yaml
 
