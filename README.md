@@ -19,6 +19,7 @@ FutureBuilder<RandomAdvice>(
           builder: (context, snapshot) {
             return Text(snapshot.data == null ? "é nulo":  snapshot.data!.slip.advice );
           },
+          );
 
 
 ```
